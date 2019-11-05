@@ -15,7 +15,8 @@ ref:https://www.nhc.noaa.gov/data/
 
 This is a python script that convert your HURDAT to a dataframe and generate a CSV file for you to eaily process this data. This work is part of trajectory segmentation research[1]. We use this dataset for evaluation purposes. If you are going to apply this script please cite to our work.
 Thanks.
-[1]: Etemad, Mohammad, et al. "A Trajectory Segmentation Algorithm Based on Interpolation-based Change Detection Strategies." EDBT/ICDT Workshops. 2019.
+
+[1]: Etemad, M., Júnior, A. S., Hoseyni, A., Rose, J., & Matwin, S. (2019). A Trajectory Segmentation Algorithm Based on Interpolation-based Change Detection Strategies. In EDBT/ICDT Workshops.
 
 # visualization of HURDAT2
 ![HURDAT2](plt.png)
